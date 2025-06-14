@@ -1,0 +1,55 @@
+{
+  "projects": [
+    {
+      "id": "c5d8",
+      "name": "teset",
+      "budget": "1233",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "c8b1",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "name": "projeto 2",
+      "budget": "54100",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "74fb",
+      "name": "Siste para Gestão de Pessoas",
+      "budget": "5860",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
